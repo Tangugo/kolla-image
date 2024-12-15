@@ -22,8 +22,7 @@ env:
   OPENSTACK_RELEASE: train
   ALIYUN_REGISTRY: registry.cn-hangzhou.aliyuncs.com
   ALIYUN_NAMESPACE: kolla2
-  ALIYUN_USERNAME: 1181817292@qq.com
-  ALIYUN_PASSWORD: Zwb201035!
+
 
 jobs:
   get-kolla-images:
