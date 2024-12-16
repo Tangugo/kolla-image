@@ -19,7 +19,7 @@ env:
   DOCKER_NAMESPACE: kolla
   KOLLA_BASE_DISTRO: centos
   INSTALL_TYPE: source
-  OPENSTACK_RELEASE: train
+  OPENSTACK_RELEASE: train-eol
   ALIYUN_REGISTRY: registry.cn-hangzhou.aliyuncs.com
   ALIYUN_NAMESPACE: kolla2
 
